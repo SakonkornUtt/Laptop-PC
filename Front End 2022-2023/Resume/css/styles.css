@@ -1,0 +1,28 @@
+thead,
+tfoot
+    {
+        background-color: black;
+        color: white;
+    }
+
+table,td
+    {
+        border-style: solid;
+    }
+
+img {
+        border-radius: 50%;
+        width: 20%;
+    }
+body{
+        background-color: #FFD4B2;
+    }
+hr{
+        border-style: dotted none none none;
+        border-color: grey;
+        border-width: 5px;
+        width: 30%;
+    }
+h1,h3{
+        color: #42855B;
+    }
